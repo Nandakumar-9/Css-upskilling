@@ -1,0 +1,16 @@
+/* Page Heading */
+h1{
+    text-align: center;
+    color: navy;
+}
+
+/* Multi Column Layout */
+.newsArticle{
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: 1px solid gray;
+
+    padding: 20px;
+    text-align: justify;
+    line-height: 1.8;
+}

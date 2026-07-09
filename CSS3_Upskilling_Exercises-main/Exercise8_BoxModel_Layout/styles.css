@@ -1,0 +1,23 @@
+/* Event Card Box Model */
+.eventCard{
+    border: 3px solid blue;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f5f5f5;
+}
+
+/* Outline Example */
+.selectedField{
+    outline: 3px solid red;
+    padding: 5px;
+}
+
+/* Visibility Hidden */
+.hiddenText{
+    visibility: hidden;
+}
+
+/* Display None */
+.removedText{
+    display: none;
+}
